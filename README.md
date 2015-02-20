@@ -19,3 +19,5 @@ Technology Stack
 Java, EJB 3.1, JPA, &amp; JUnit MVC application with Servlet Controllers and JSP Front End.
 
 I use Maven as build tool and I tested it using MySQL and H2 databases and Wildfly 8.2 Application Server 
+
+Credit to the Netbeans Tutorial https://netbeans.org/kb/docs/javaee/ecommerce/design.html
