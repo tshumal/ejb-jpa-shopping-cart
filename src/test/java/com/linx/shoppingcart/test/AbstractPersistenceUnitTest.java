@@ -1,5 +1,4 @@
 package com.linx.shoppingcart.test;
-/*package com.linx.affablebean.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -71,4 +70,3 @@ public abstract class AbstractPersistenceUnitTest extends TestCase {
     }
   }
 }
-*/

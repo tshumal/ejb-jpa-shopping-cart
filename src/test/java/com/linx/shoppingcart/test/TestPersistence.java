@@ -1,19 +1,12 @@
 package com.linx.shoppingcart.test;
-/*package com.linx.affablebean.test;
 
+import org.junit.Test;
+
+//TODO Write proper unit tests :)
 public class TestPersistence extends AbstractPersistenceUnitTest {
 
-  public TestPersistence(String testName) {
-    super(testName);    
-  }
-  
-  
-  
-  try {
-    
-  }catch(Exception ex){
-    
-  }
+	public TestPersistence(String testName) {
+		super(testName);
+	}
 
 }
-*/
