@@ -1,6 +1,12 @@
-# ejb-jpa-shopping-cart
+# JavaEE MVC Shopping Cart App using EJB 3 and JPA
 
-Use Case
+## Technology Stack
+
+**Java**, **EJB 3.1**, **JPA**, &amp; **JUnit** MVC application with Servlet Controllers and JSP Front End.
+
+I use **Maven** as build tool and I tested it using MySQL and H2 databases and Wildfly 8.2 Application Server 
+
+## Use Case
 
 Use case is an online shopping cart with the following functionality:
 
@@ -14,10 +20,6 @@ Use case is an online shopping cart with the following functionality:
 
 5. place an order and make payment through a secure checkout process.
 
-Technology Stack
-
-Java, EJB 3.1, JPA, &amp; JUnit MVC application with Servlet Controllers and JSP Front End.
-
-I use Maven as build tool and I tested it using MySQL and H2 databases and Wildfly 8.2 Application Server 
+## Credits
 
 Credit to the Netbeans Tutorial https://netbeans.org/kb/docs/javaee/ecommerce/design.html
